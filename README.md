@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Sobre Mim</h1>
 
-<!--
-**eduar-silva/eduar-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou Eduardo Silva
 
-Here are some ideas to get you started:
+💻 Desenvolvedor apaixonado por tecnologia, programação e criação de soluções digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e transformar ideias em projetos que possam gerar impacto.
+
+🌱 Atualmente, estou focado em evoluir como desenvolvedor, explorar novas ferramentas e ampliar meus conhecimentos na área de tecnologia.
+
+🤝 Tenho interesse em colaborar com projetos, aprender com outros desenvolvedores e participar de desafios que contribuam para meu crescimento profissional.
+
+💬 Sinta-se à vontade para conversar comigo sobre programação, tecnologia e desenvolvimento de projetos.
+
+⚡ Curiosidade: acredito que cada projeto é uma oportunidade de aprender algo novo e melhorar um pouco mais.
